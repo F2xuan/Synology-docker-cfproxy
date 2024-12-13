@@ -11,6 +11,6 @@
 - 注意修改workers_url为你自己的域名
 ## 效果
 
-(./demo.png)
+[demo](./demo.png)
 # 感谢
 [cmliu](https://github.com/cmliu/CF-Workers-docker.io)大佬
