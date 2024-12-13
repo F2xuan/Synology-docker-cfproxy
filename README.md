@@ -1,5 +1,5 @@
 # Synology-docker-cfproxy
-本代码在[CM大佬](https://github.com/cmliu/CF-Workers-docker.io/blob/main/_worker.js) 的源码基础上修改得来。
+本代码在[cmliu](https://github.com/cmliu/CF-Workers-docker.io/blob/main/_worker.js) 的源码基础上修改得来。
 
 ## 说明
 
@@ -13,4 +13,4 @@
 
 ![demo](./demo.png)
 # 感谢
-[cmliu](https://github.com/cmliu/CF-Workers-docker.io)大佬
+[cmliu](https://github.com/cmliu/CF-Workers-docker.io)
